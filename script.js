@@ -1,1 +1,0 @@
-document.getElementById('demostracion').innerHTML = 'Texto transformado por JS'
